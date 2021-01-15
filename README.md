@@ -1,3 +1,6 @@
+# View the live site at https://speechly-expense-tracker.netlify.app/
+This project was made using Speechly(https://www.speechly.com/) and React to offer users a simple way to record and categorize expenses and income using voice commands.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
